@@ -1,2 +1,2 @@
 # test-repository
-мой первый репозиторий 
+my first repository
